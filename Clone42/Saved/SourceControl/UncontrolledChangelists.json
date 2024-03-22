@@ -5,7 +5,37 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/SplashScreen.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MockScreens/CameraGameplay.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MockScreens/GuideScreen.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MockScreens/Main_Menu.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MockScreens/Mockup_Gameplay.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MockScreens/TitleScreen.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MockScreens/Transparent_Gameplay.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MockScreens/WarningScreen.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/PlayerHuD.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/GameMaps/MainMenu.umap",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MainMenu.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/Fonts/The_Screaming_Font.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/Fonts/The_Screaming.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/Fonts/Bates_Shower_Font.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/Fonts/Bates_Shower.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/SplashScreen/SplashScreen.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/SplashScreen/MockScreens/CameraGameplay.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/SplashScreen/MockScreens/GuideScreen.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/SplashScreen/MockScreens/Main_Menu.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/SplashScreen/MockScreens/Mockup_Gameplay.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/SplashScreen/MockScreens/TitleScreen.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/SplashScreen/MockScreens/Transparent_Gameplay.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/SplashScreen/MockScreens/WarningScreen.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MainMenu/MainMenu.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MainMenu/MenuGameMode.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MainMenu/OptionsMenu.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MainMenu/MissionGuide.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MainMenu/Options.uasset"
 			]
 		}
 	]
