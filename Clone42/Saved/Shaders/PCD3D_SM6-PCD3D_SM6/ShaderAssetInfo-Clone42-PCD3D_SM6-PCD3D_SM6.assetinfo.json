@@ -8,12 +8,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1CAF15021BE5B6C571C74EA6D89BD897956F3BC0",
-			"Assets": [
-				"/Game/FPWeapon/Materials/BaseMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "7142840353F82C40131EA6F4108FD2A072D4D6C0",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
@@ -28,8 +22,8 @@
 		{
 			"ShaderMapHash": "7FA09504E3EB3B2FDBD6CF34C82B32ADBC372CBC",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material",
-				"/Game/MSPresets/M_MS_Surface_Material_VT/M_MS_Surface_Material_VT"
+				"/Game/GameContent/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material",
+				"/Game/GameContent/MSPresets/M_MS_Surface_Material_VT/M_MS_Surface_Material_VT"
 			]
 		},
 		{
@@ -108,8 +102,8 @@
 		{
 			"ShaderMapHash": "4049FC1A59F8BDE94FB3C34C1DE0B6BDC88EC3D2",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Decal_Material/M_MS_Decal_Material",
-				"/Game/MSPresets/M_MS_Decal_Material_VT/M_MS_Decal_Material_VT"
+				"/Game/GameContent/MSPresets/M_MS_Decal_Material/M_MS_Decal_Material",
+				"/Game/GameContent/MSPresets/M_MS_Decal_Material_VT/M_MS_Decal_Material_VT"
 			]
 		},
 		{
@@ -223,8 +217,8 @@
 		{
 			"ShaderMapHash": "2339DF313B744C8F81172740BC2D8CA54297FE62",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Default_Transmission_Material/M_MS_Default_Transmission_Material",
-				"/Game/MSPresets/M_MS_Default_Transmission_Material_VT/M_MS_Default_Transmission_Material_VT"
+				"/Game/GameContent/MSPresets/M_MS_Default_Transmission_Material/M_MS_Default_Transmission_Material",
+				"/Game/GameContent/MSPresets/M_MS_Default_Transmission_Material_VT/M_MS_Default_Transmission_Material_VT"
 			]
 		},
 		{
@@ -284,8 +278,8 @@
 		{
 			"ShaderMapHash": "E8D35744ED91F2394D377D5671B2A66619E85E83",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material",
-				"/Game/MSPresets/M_MS_Default_Fuzz_Material_VT/M_MS_Default_Fuzz_Material_VT"
+				"/Game/GameContent/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material",
+				"/Game/GameContent/MSPresets/M_MS_Default_Fuzz_Material_VT/M_MS_Default_Fuzz_Material_VT"
 			]
 		},
 		{
@@ -346,8 +340,8 @@
 		{
 			"ShaderMapHash": "F5E1565307ECF2902F363BF0EB3A1DF9756CD4E4",
 			"Assets": [
-				"/Game/MSPresets/M_MS_ImperfectionDecal_Material/M_MS_ImperfectionDecal_Material",
-				"/Game/MSPresets/M_MS_ImperfectionDecal_Material_VT/M_MS_ImperfectionDecal_Material_VT"
+				"/Game/GameContent/MSPresets/M_MS_ImperfectionDecal_Material/M_MS_ImperfectionDecal_Material",
+				"/Game/GameContent/MSPresets/M_MS_ImperfectionDecal_Material_VT/M_MS_ImperfectionDecal_Material_VT"
 			]
 		},
 		{
@@ -437,7 +431,7 @@
 		{
 			"ShaderMapHash": "B5399B6B5357B3DF972B3B24687E038FE5743F05",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+				"/Game/GameContent/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
 			]
 		},
 		{
@@ -467,8 +461,8 @@
 		{
 			"ShaderMapHash": "F613787160AFF8D16BFACF2E62AD5DCACA7C6D56",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material",
-				"/Game/MSPresets/M_MS_Default_Material_VT/M_MS_Default_Material_VT"
+				"/Game/GameContent/MSPresets/M_MS_Default_Material/M_MS_Default_Material",
+				"/Game/GameContent/MSPresets/M_MS_Default_Material_VT/M_MS_Default_Material_VT"
 			]
 		},
 		{
@@ -612,7 +606,7 @@
 		{
 			"ShaderMapHash": "54772E971DB8D1AE8AC191FD8044B69ACE530DCB",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Glass_Material/MI_MS_Glass_Material_Inst"
+				"/Game/GameContent/MSPresets/M_MS_Glass_Material/MI_MS_Glass_Material_Inst"
 			]
 		},
 		{
@@ -672,9 +666,9 @@
 		{
 			"ShaderMapHash": "2BBFA8A22A781401DC04149B8E73BB3D615AF3C1",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material_Var",
-				"/Game/MSPresets/M_MS_Imperfection_Material_Var/M_MS_Imperfection_Material_Var",
-				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_Var_VT"
+				"/Game/GameContent/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material_Var",
+				"/Game/GameContent/MSPresets/M_MS_Imperfection_Material_Var/M_MS_Imperfection_Material_Var",
+				"/Game/GameContent/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_Var_VT"
 			]
 		},
 		{
@@ -714,12 +708,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A63127AF75EC1838644E27C9968844AF5CC44C89",
-			"Assets": [
-				"/Game/FPWeapon/Materials/M_FPGun"
-			]
-		},
-		{
 			"ShaderMapHash": "32D9C9AF88741ACCCE24FF79F71CCA51B8211F79",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Chair"
@@ -728,7 +716,7 @@
 		{
 			"ShaderMapHash": "1BA765B4EEFD8D96C7B9133D0D3E8CD7F6273B27",
 			"Assets": [
-				"/Game/MSPresets/M_MS_SurfaceBlend_Material/M_MS_SurfaceBlend_Material"
+				"/Game/GameContent/MSPresets/M_MS_SurfaceBlend_Material/M_MS_SurfaceBlend_Material"
 			]
 		},
 		{
@@ -741,14 +729,14 @@
 			"ShaderMapHash": "383069B69E04B08CE1E91DA2C4CD33E541FB435E",
 			"Assets": [
 				"/Bridge/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material",
-				"/Game/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material"
+				"/Game/GameContent/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material"
 			]
 		},
 		{
 			"ShaderMapHash": "DC25C1B69CAF36EB9693B41A39E5EB74501340AB",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material",
-				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_VT"
+				"/Game/GameContent/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material",
+				"/Game/GameContent/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_VT"
 			]
 		},
 		{
@@ -1003,7 +991,7 @@
 		{
 			"ShaderMapHash": "90284FF40390A5B3DCBCF55811C2205C6C01EF0C",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
+				"/Game/GameContent/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
 			]
 		},
 		{
