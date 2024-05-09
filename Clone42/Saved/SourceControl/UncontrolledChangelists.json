@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/MainMenu/MobileOverlay.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/Widgets/PlayerHUD/HUD.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/GameMaps/HorrorLevel.umap",
+				"C:/Users/s233264/Desktop/UE-Prototyping/Clone42/Content/GameContent/NewBlueprint.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset"
+			]
+		}
+	]
+}
